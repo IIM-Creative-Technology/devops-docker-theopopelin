@@ -1,0 +1,23 @@
+{
+  "name": "katzpec",
+  "version": "1.0.0",
+  "description": "rendu",
+  "main": "index.js",
+  "scripts": {
+    "test": "testrendu",
+    "build": "npm build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theopopelin/rendu14112021.git"
+  },
+  "author": "theo popelin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theopopelin/rendu14112021/issues"
+  },
+  "homepage": "https://github.com/theopopelin/rendu14112021#readme",
+  "dependencies": {
+    "node": "^17.1.0"
+  }
+}
